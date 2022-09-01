@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define y 20 // no need of semi-colon
+#define y 20 // should not use semi-colon, will give error
 #define area(x,y) (x*y) // there should be no space between area(x,y), like area (x,y), does not work like that
 
 /*
