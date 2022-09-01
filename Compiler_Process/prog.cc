@@ -24,3 +24,10 @@ int main () {
 
     return 0;
 }
+
+/*
+Output : 
+21
+20
+
+*/
